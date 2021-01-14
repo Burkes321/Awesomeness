@@ -1,2 +1,0 @@
-# Awesomeness
-Collab project
